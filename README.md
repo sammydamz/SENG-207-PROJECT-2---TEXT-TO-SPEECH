@@ -1,1 +1,4 @@
-# SENG-207-PROJECT-2---TEXT-TO-SPEECH
+                                                        #PROGRAMMING FOR ENGINEERS - SENG 207
+                                                        # SAMUEL DANQUAH ANKAPONG 
+                                                        #           10982880
+                                                        #          PROJECT 2 - PART 1
